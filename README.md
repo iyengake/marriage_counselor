@@ -9,8 +9,8 @@ You will need:
 
 ### Installation/Usage
 #### Laptop for Music
-```npm install -g particle-cli```
-```python run.py```
+```npm install -g particle-cli
+python run.py```
 
 #### Particle for the Device Interface
 - Copy marriagecouselor.ino for your device under https://build.particle.io/
