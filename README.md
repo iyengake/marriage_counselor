@@ -8,9 +8,9 @@ The marriage counsellor uses a non-intrusive mechanism to trigger a little less 
 - Step 2: Partner B pushes their designated button in reponse to the "ready" state
 - Step 3: It's on!
 
-It's that easy! The marriage counsellor takes care of the rest by setting mood lighting for enabling quality distraction free communication
+It's that easy! The marriage counsellor takes care of the rest by setting mood lighting and music (based on a dropbox location) enabling quality distraction free communication
 
-The marriage counsellor then turns all the lights off after an hour, ensuring nothing gets in the way of a good cuddle and pillow talk
+The marriage counsellor then turns all the lights off after an hour, ensuring next best action - sleep!
 
 ## Devices
 
