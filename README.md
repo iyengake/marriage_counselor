@@ -10,6 +10,7 @@ You will need:
 ### Installation/Usage
 #### Laptop for Music
 ```npm install -g particle-cli
+
 python run.py```
 
 #### Particle for the Device Interface
