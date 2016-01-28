@@ -3,14 +3,18 @@
 You will need:
 - Particle (formerly Spark) Photon, or other similar model (https://www.particle.io)
 - Build as per the following Schematic
-- A computer with particle-cli installed (https://github.com/spark/particle-cli)
+- A computer with particle-cli and VLC installed (https://github.com/spark/particle-cli)
 - Wink based lighting setup
 - IFTTT recipe
 
 ### Installation/Usage
 #### Laptop for Music
 `npm install -g particle-cli`
-- Pull run.py onto your Laptop
+- Install VLC
+
+`brew cask install vlc`
+
+- Run run.py on your Laptop
  
 `python run.py`
 
