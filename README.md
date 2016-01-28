@@ -10,7 +10,8 @@ You will need:
 ### Installation/Usage
 #### Laptop for Music
 `npm install -g particle-cli`
-- Pull run.py onto your Macbook Pro 
+- Pull run.py onto your Laptop
+ 
 `python run.py`
 
 #### Particle for the Device Interface
