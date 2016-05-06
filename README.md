@@ -1,12 +1,10 @@
 ## The Marriage Couselor
 
-The key issue in most marriages is lack of communication.
-
-The marriage counsellor uses a non-intrusive mechanism to trigger a little less conversation and a little more action to break the barrier to communication.
+The key issue in most marriages is lack of communication. The marriage counsellor uses a non-intrusive and more subtle method of communication
 
 - Step 1: Partner A pushes their designated button to indicate a "ready" state
 - Step 2: Partner B pushes their designated button in reponse to the "ready" state
-- Step 3: It's on!
+- Step 3: Profit!
 
 It's that easy! The marriage counsellor takes care of the rest by setting mood lighting and music (based on a dropbox location)
 
