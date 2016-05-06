@@ -8,9 +8,9 @@ The marriage counsellor uses a non-intrusive mechanism to trigger a little less 
 - Step 2: Partner B pushes their designated button in reponse to the "ready" state
 - Step 3: It's on!
 
-It's that easy! The marriage counsellor takes care of the rest by setting mood lighting and music (based on a dropbox location) enabling quality distraction free communication
+It's that easy! The marriage counsellor takes care of the rest by setting mood lighting and music (based on a dropbox location)
 
-The marriage counsellor then turns all the lights off after an hour, ensuring next best action - sleep!
+The marriage counsellor then turns all the lights off after an hour, ensuring better quality of sleep
 
 ## Devices
 
@@ -33,7 +33,7 @@ You will need:
 `python run.py`
 
 #### Particle for the Device Interface
-- Copy marriagecouselor.ino for your device under https://build.particle.io/
+- Copy marriagecouselor.ino for your device using https://build.particle.io/
 
 #### Wink App Settings
 WIP
